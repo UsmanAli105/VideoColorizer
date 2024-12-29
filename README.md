@@ -47,6 +47,12 @@ The **Video Colorizer** application allows users to upload black-and-white video
      pip install -r requirements.txt
      ```
 
+   - Change Directory:
+     ```bash
+     cd Back-end
+     ```
+
+
    - Create necessary directories:
      ```bash
      mkdir uploads output weights
